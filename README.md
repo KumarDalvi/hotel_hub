@@ -22,3 +22,13 @@ A feature-rich and efficient hotel management system that streamlines order mana
 🔹 Database: MySQL
 🔹 QR Code Generator: qrcode.min.js (for UPI Payment QR generation)
 
+
+📌 Demo Login Credentials
+Use the following credentials to test the system:
+
+🔹 Admin Panel Access
+🔑 URL: http://hotelhub.free.nf/
+👤 Username: demo@hotel.com
+🔒 Password: Hotel@1234
+
+Feel free to test the system using the demo login provided.
